@@ -1,0 +1,4 @@
+,Df,Sum Sq,Mean Sq,F value,Pr(>F)
+parental.level.of.education,5,7295.561831,1459.112366,6.5215826,5.59E-06
+Residuals                  ,994,222393.5172,223.7359328,,
+Total,999,229689.079,,,
