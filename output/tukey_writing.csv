@@ -1,0 +1,16 @@
+,parental_level_of_education,diff,lwr,upr,p adj
+,high school-some high school,-2.439288565,-6.781297088,1.902719959,0.596037906
+,some college-some high school,3.952439808,-0.249756777,8.154636393,0.079004177
+,associate's degree-some high school,5.00812824,0.789232698,9.227023782,0.00946881
+,bachelor's degree-some high school,8.493087776,3.512962192,13.47321336,1.92E-05
+,master's degree-some high school ,10.78969795,4.484981685,17.09441421,1.77E-05
+,some college-high school  ,6.391728373,2.292486359,10.49097039,0.000137615
+,associate's degree-high school,7.447416805,3.331058154,11.56377545,4.30E-06
+,bachelor's degree-high school,10.93237634,6.038811201,15.82594148,4.09E-09
+,master's degree-high school,13.22898651,6.992418859,19.46555416,2.95E-08
+,associate's degree-some college,1.055688432,-2.912916696,5.024293559,0.974085432
+,bachelor's degree-some college,4.540647968,-0.2292994,9.310595336,0.072588094
+,master's degree-some college,6.837258137,0.697209751,12.97730652,0.018941701
+,bachelor's degree-associate's degree,3.484959536,-1.299705692,8.269624764,0.298765601
+,master's degree-associate's degree ,5.781569705,-0.369919353,11.93305876,0.079414115
+,master's degree-bachelor's degree,2.296610169,-4.399910485,8.993130824,0.924552826

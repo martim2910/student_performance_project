@@ -1,0 +1,38 @@
+parental_level_of_education,diff,lwr,upr,p adj
+high school-some high school,-1.359451602,-5.774933556,3.056030352,0.951499598
+some college-some high school,3.63111188,-0.642192304,7.904416064,0.148178441
+associate's degree-some high school,4.385676179,0.095390467,8.675961891,0.041754604
+bachelor's degree-some high school,5.892623805,0.828226873,10.95702074,0.011885697
+master's degree-some high school ,6.248556008,-0.162845702,12.65995772,0.061061522
+some college-high school  ,4.990563482,0.821956019,9.159170945,0.008574774
+associate's degree-high school,5.745127781,1.559114041,9.93114152,0.001330814
+bachelor's degree-high school,7.252075406,2.275703654,12.22844716,0.000491795
+master's degree-high school,7.60800761,1.265907688,13.95010753,0.008371877
+associate's degree-some college,0.754564299,-3.281195702,4.7903243,0.994793712
+bachelor's degree-some college,2.261511924,-2.589150255,7.112174103,0.767618823
+master's degree-some college,2.617444128,-3.626503276,8.861391531,0.838432073
+bachelor's degree-associate's degree,1.506947626,-3.358681462,6.372576713,0.950283371
+master's degree-associate's degree ,1.862879829,-4.392701841,8.118461499,0.95784559
+master's degree-bachelor's degree,0.355932203,-6.453903831,7.165768238,0.999989724
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
